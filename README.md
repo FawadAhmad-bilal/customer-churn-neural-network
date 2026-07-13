@@ -2,7 +2,6 @@
 
 A binary classification project that predicts whether a bank customer will leave (churn) using a fully connected **Artificial Neural Network (ANN)** built with TensorFlow and Keras.
 
-
 ---
 
 ## Problem Statement
